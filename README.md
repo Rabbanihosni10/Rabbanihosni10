@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hosni Rabbani
-- 👀 I’m interested in web development and cyber sicurity
+- 👀 I’m interested in web development, data analysis and cyber sicurity
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me (rabbanihosni10@gmail.com)
 
