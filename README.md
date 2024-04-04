@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hosni Rabbani
-- 👀 I’m interested in web development, data analysis and cyber sicurity
+- 👀 I’m interested in web development, data analytics
 - 🌱 I’m currently learning Web development
 - 👀 I know HTML, CSS, Tailwind CSS, Bootstrap, DaisyUI, JS(Basic), Wordpress, Python 
 - 📫 How to reach me (rabbanihosni10@gmail.com)
