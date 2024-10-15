@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development, data analytics
 - 🌱 I’m currently learning Web development
 - 👀 I know HTML, CSS, Tailwind CSS, Bootstrap, DaisyUI, JS(Basic), Wordpress, Python 
-- 📫 How to reach me (rabbanihosni10@gmail.com)
+- 📫 How to reach me (rabbanihosni10@gmail.com , rabbanihosni@gmail.com ---Personal)
+  (hosni.rabbani@g.bracu.ac.bd   ---Institutional)
 <!--Leetcode-->
 ![](https://leetcard.jacoblin.cool/rabbanihosni10?ext=heatmap)
 <!--CodeForces-->
