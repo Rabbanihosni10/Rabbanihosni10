@@ -7,8 +7,8 @@
 <!--Leetcode-->
 ![](https://leetcard.jacoblin.cool/rabbanihosni10?ext=heatmap)
 <!--CodeForces-->
-![](https://raw.githubusercontent.com/rabbanihosni10/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/rabbanihosni10/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/roborabbani/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/roborabbani/cf-stats/main/output/light_card.svg)
 
 <!---
 Rabbanihosni10/Rabbanihosni10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
