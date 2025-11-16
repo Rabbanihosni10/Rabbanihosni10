@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hosni Rabbani
-- 👀 I’m interested in web development, data analytics
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in Web Development, App Development, N8N , AI/ML
+- 🌱 I’m currently learning Web Development, App Development
 - 👀 I know HTML, CSS, Tailwind CSS, Bootstrap, DaisyUI, JS(Basic), Wordpress, Python 
 - 📫 How to reach me (rabbanihosni10@gmail.com , rabbanihosni@gmail.com ---Personal)
   (hosni.rabbani@g.bracu.ac.bd   ---Institutional)
