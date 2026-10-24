@@ -36,6 +36,17 @@ Hosting-
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
 
+### 🎓 Academic & Research Profiles
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=ugxXAa0AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Hosni-Rabbani" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats & Activity
 
@@ -64,9 +75,9 @@ Hosting-
 <br/>
 
 <!-- INSTANT ANIMATION: Typing SVG (Zero Setup Required) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B3E6&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;App+Developer;Building+Scalable+Apps;Always+Eager+To+Learn+%F0%9F%9A%80";Researcher+in+HCI+and+Computer+Vision alt="Typing SVG" />
-</p>
+</p> -->
 
 ### 💻 Competitive Programming & Problem Solving
 
@@ -114,10 +125,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+### ✍️ Dev Quotes
 
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Dev Quote" />
+</p>
 ---
 [![](https://komarev.com/ghpvc/?username=Rabbanihosni10&icon=0&color=0)](https://visitcount.itsvg.in)
 
